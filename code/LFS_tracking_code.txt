@@ -1,0 +1,8 @@
+#https://stackoverflow.com/questions/65820300/pushing-files-over-100mb-to-github
+git lfs install
+
+git lfs track '*.nc'
+git lfs track '*.csv'
+
+git lfs push --all origin main
+git push -u origin main

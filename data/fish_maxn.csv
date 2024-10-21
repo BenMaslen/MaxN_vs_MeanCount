@@ -1,0 +1,207 @@
+﻿opcode,species,family,maxn,recreational,time_to_appear,time_to_maxn,vid_name
+chain_BRUV_10564_20211223,Arripis truttaceus,Arripidae,4,REC,3.09,3.1908,20211223_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20211223,Platycephalus bassensis,Platycephalidae,14,no,3.36861,FALSE,20211223_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20211223,Rajidae,Rajidae,1,no,12.15639,12.15639,20211223_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20211223,Sillaginodes punctata,Sillaginidae,2,REC,19.83667,FALSE,20211223_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Arripis truttaceus,Arripidae,3,REC,6.11138,FALSE,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Pseudocaranx ,Carangidae,9,REC,8.60443,FALSE,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Dicotylichthys punctulatus,Diodontidae,1,no,3.69147,3.69147,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Moridae,Moridae,1,no,0.48771,0.48771,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Platycephalus bassensis,Platycephalidae,19,REC,4.14831,FALSE,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Rajidae,Rajidae,1,no,0.15682,0.15682,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Sillaginodes punctata,Sillaginidae,2,REC,9.67439,FALSE,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Chyrosophyrs auratus,Sparidae,3,REC,21.1033,FALSE,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_10564_20220112,Trygonoptera,Trygonoptera,1,no,25.22603,25.22603,20220112_BRUV_SB_B2_Chain_10564
+chain_BRUV_5446_20210927,Arripis truttaceus,Arripidae,23,REC,4.92,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_5446_20210927,spotty brown skate,Rajidae,1,no,6.45,6.45,chain_BRUV_5446_20210927
+chain_BRUV_5446_20210927,Dicotylichthys punctulatus,Tetraodontidae,1,no,14. 8,14. 8,chain_BRUV_5446_20210927
+chain_BRUV_5446_20210927,Platycephalus bassensis,Platycephalidae,8,REC,5.01,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_5446_20210927,Naxia aurita,Majidae,1,no,20.16,20.16,chain_BRUV_5446_20210927
+chain_BRUV_5591_20211008,Arripis truttaceus,Arripidae,2,REC,11,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_5591_20211008,Blenniidae,Blenniidae,1,no,25.64,25.64,chain_BRUV_5446_20210927
+chain_BRUV_5591_20211008,Brachaluteres jacksonianus,Monacanthidae,1,no,10.15,10.15,chain_BRUV_5446_20210927
+chain_BRUV_7907_20211116,Arripis truttaceus,Arripidae,3,REC,13.24362,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_7907_20211116,Platycephalus bassensis,Platycephalidae,5,REC,9.9484,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_7907_20211116,Rajidae,Rajidae,1,no,36.33682,36.33682,chain_BRUV_5446_20210927
+chain_BRUV_7907_20211116,Cephaloscyllium laticeps,Scyliorhinidae,2,no,12.15058,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_7951_20211209,Arripis truttaceus,Arripidae,2,REC,,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_7951_20211209,Octopus,Octopus,1,no,,0,chain_BRUV_5446_20210927
+chain_BRUV_7951_20211209,Platycephalus bassensis,Platycephalidae,3,REC,,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Arripis truttaceus,Arripidae,4,REC,2.36694,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Pseudocaranx ,Carangidae,1,REC,46.54333,46.54333,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Trachurus novaezelandiae,Carangidae,5,REC,1.59,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Dasyatis brevicaudata,Dasyatidae,1,no,19.67028,19.67028,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Dicotylichthys punctulatus,Diodontidae,1,no,22.87667,22.87667,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Meuschenia freycineti,Monacanthidae,1,REC,37.16139,37.16139,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Platycephalus bassensis,Platycephalidae,11,REC,0.34917,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Sillaginodes punctata,Sillaginidae,2,REC,27.24417,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8299_20220112,Chyrosophyrs auratus,Sparidae,1,REC,20.45139,20.45139,chain_BRUV_5446_20210927
+chain_BRUV_8996_20211223,Arripis truttaceus,Arripidae,2,REC,31.44222,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8996_20211223,Moridae,Moridae,3,no,21.535,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8996_20211223,Platycephalus bassensis,Platycephalidae,5,REC,32.30333,FALSE,chain_BRUV_5446_20210927
+chain_BRUV_8996_20211223,Rajidae,Rajidae,1,no,52.87056,52.87056,chain_BRUV_5446_20210927
+chain_BRUV_9619_20210927,Moridae,Moridae,2,no,6.889,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_9619_20210927,Arripis truttaceus,Arripidae,2,REC,3.08567,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_9619_20210927,Rajidae,Rajidae,1,no,8.312,8.312,chain_BRUV_9619_20210927
+chain_BRUV_9619_20210927,Platycephalus bassensis,Platycephalidae,5,REC,5.933,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_9619_20210927,Tetraodontidae,Tetraodontidae,1,no,20.21933,20.21933,chain_BRUV_9619_20210927
+chain_BRUV_D067_20211116,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_BRUV_9619_20210927
+chain_BRUV_D067_20211217,Arripis truttaceus,Arripidae,1,REC,38.36583,38.36583,chain_BRUV_9619_20210927
+chain_BRUV_D067_20211217,Platycephalus bassensis,Platycephalidae,4,REC,20.10194,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D067_20211217,Cephaloscyllium laticeps,Scyliorhinidae,1,no,21.60778,21.60778,chain_BRUV_9619_20210927
+chain_BRUV_D067_20211217,Sphyraena novaehollandiae,Sphyraenidae,1,REC,25.34361,25.34361,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211008,Rajidae,Rajidae,1,no,8.682,8.682,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Moridae,Moridae,1,no,5.14046,5.14046,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Arripis truttaceus,Arripidae,5,REC,29.89348,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Trachurus novaezelandiae,Carangidae,11,REC,37.63914,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Dicotylichthys punctulatus,Diodontidae,1,no,0.29422,0.29422,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Notorynchus cepedianus,Hexanchidae,1,no,36.71708,36.71708,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Meuschenia freycineti,Monacanthidae,1,REC,12.89,12.89,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Myliobatis australis,Myliobatidae,1,no,42.10845,42.10845,chain_BRUV_9619_20210927
+chain_BRUV_D083_20211217,Platycephalus bassensis,Platycephalidae,7,REC,3.01377,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D093_20211217,Platycephalus bassensis,Platycephalidae,3,REC,0.88267,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D093_20211217,Rajidae,Rajidae,1,no,3.80533,3.80533,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211124,Arripis truttaceus,Arripidae,1,REC,36.23055556,36.23055556,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211124,small crab,Crab,1,no,13.35166667,13.35166667,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211124,Platycephalus bassensis,Platycephalidae,4,REC,39.74944444,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211124,Cephaloscyllium laticeps,Scyliorhinidae,1,no,30.29777778,30.29777778,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211223,Arripis truttaceus,Arripidae,5,REC,3.51669,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211223,Pseudocaranx ,Carangidae,15,REC,47.04531,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211223,Platycephalus bassensis,Platycephalidae,6,REC,1.0303,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211223,Rajidae,Rajidae,2,no,1.13189,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211223,Cephaloscyllium laticeps,Scyliorhinidae,1,no,34.91871,34.91871,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211223,Sillaginodes punctata,Sillaginidae,3,REC,19.59241,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D195_20211223,Chyrosophyrs auratus,Sparidae,1,REC,40.29838,40.29838,chain_BRUV_9619_20210927
+chain_BRUV_D735_20211124,Arripis truttaceus,Arripidae,4,REC,26.35,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D735_20211124,Meuschenia freycineti,Monacanthidae,1,REC,29.85,29.85,chain_BRUV_9619_20210927
+chain_BRUV_D735_20211124,Platycephalus bassensis,Platycephalidae,3,REC,0.8,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_D735_20211124,Cephaloscyllium laticeps,Scyliorhinidae,1,no,18.34,18.34,chain_BRUV_9619_20210927
+chain_BRUV_NA_20211209,Arripis truttaceus,Arripidae,2,REC,25.5283,FALSE,chain_BRUV_9619_20210927
+chain_BRUV_NA_20211209,Platycephalus bassensis,Platycephalidae,1,REC,3.4967,3.4967,chain_BRUV_9619_20210927
+chain_RUV_10115_20211116,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_BRUV_9619_20210927
+chain_RUV_10564_20211223,Arripis truttaceus,Arripidae,3,REC,49.67658,FALSE,chain_BRUV_9619_20210927
+chain_RUV_10564_20211223,Pseudocaranx ,Carangidae,21,REC,5.77547,FALSE,chain_BRUV_9619_20210927
+chain_RUV_10564_20211223,Meuschenia freycineti,Monacanthidae,1,REC,43.22553,43.22553,chain_BRUV_9619_20210927
+chain_RUV_10564_20220112,Dicotylichthys punctulatus,Diodontidae,1,no,42.6,42.6,chain_BRUV_9619_20210927
+chain_RUV_10564_20220112,Meuschenia freycineti,Monacanthidae,1,REC,49.6,49.6,chain_BRUV_9619_20210927
+chain_RUV_5446_20211209,Meuschenia freycineti,Monacanthidae,1,REC,56.26,56.26,chain_BRUV_9619_20210927
+chain_RUV_5446_20211209,Platycephalus bassensis,Platycephalidae,1,REC,62.55,62.55,chain_BRUV_9619_20210927
+chain_RUV_7907_20211110,Dicotylichthys punctulatus,Diodontidae,1,no,6.92267,6.92267,chain_BRUV_9619_20210927
+chain_RUV_7907_20211110,Moridae,Moridae,1,no,16.24933,16.24933,chain_BRUV_9619_20210927
+chain_RUV_7907_20211110,Trachinops caudimaculatus,Plesiopidae,2,no,5.76533,FALSE,chain_BRUV_9619_20210927
+chain_RUV_7907_20211110,Cephaloscyllium laticeps,Scyliorhinidae,1,no,33.58267,33.58267,chain_BRUV_9619_20210927
+chain_RUV_7951_20210927,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_BRUV_9619_20210927
+chain_RUV_8299_20211223,Arripis truttaceus,Arripidae,1,REC,15.37863,15.37863,chain_BRUV_9619_20210927
+chain_RUV_8299_20211223,Meuschenia freycineti,Monacanthidae,1,REC,20.70727,20.70727,chain_BRUV_9619_20210927
+chain_RUV_8299_20211223,Platycephalus bassensis,Platycephalidae,1,REC,29.96676,29.96676,chain_BRUV_9619_20210927
+chain_RUV_8299_20211223,Rajidae,Rajidae,1,no,15.30979,15.30979,chain_BRUV_9619_20210927
+chain_RUV_8299_20220112,Pseudocaranx ,Carangidae,16,REC,6.96891,FALSE,chain_BRUV_9619_20210927
+chain_RUV_8299_20220112,Dicotylichthys punctulatus,Diodontidae,1,no,7.77416,7.77416,chain_BRUV_9619_20210927
+chain_RUV_8299_20220112,Monacanthidae,Monacanthidae,1,REC,7.8876,7.8876,chain_BRUV_9619_20210927
+chain_RUV_8299_20220112,Platycephalus bassensis,Platycephalidae,1,REC,27.86311,27.86311,chain_BRUV_9619_20210927
+chain_RUV_9619_20211209,Platycephalus bassensis,Platycephalidae,3,REC,6.5,FALSE,chain_BRUV_9619_20210927
+chain_RUV_D067_20211110,Crab,Crab,1,no,7.96639,7.96639,chain_BRUV_9619_20210927
+chain_RUV_D067_20211110,Platycephalus bassensis,Platycephalidae,1,REC,8.545,8.545,chain_BRUV_9619_20210927
+chain_RUV_D067_20211110,Cephaloscyllium laticeps,Scyliorhinidae,1,no,53.05278,53.05278,chain_BRUV_9619_20210927
+chain_RUV_D083_20211124,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_BRUV_9619_20210927
+chain_RUV_D083_20211217,Blenniidae,Blenniidae,1,no,1.12111,1.12111,chain_BRUV_9619_20210927
+chain_RUV_D083_20211217,Dicotylichthys punctulatus,Diodontidae,1,no,10.00917,10.00917,chain_BRUV_9619_20210927
+chain_RUV_D083_20211217,Moridae,Moridae,1,no,11.24056,11.24056,chain_BRUV_9619_20210927
+chain_RUV_D093_20211116,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_BRUV_9619_20210927
+chain_RUV_D093_20211217,Arripis truttaceus,Arripidae,5,REC,,FALSE,chain_BRUV_9619_20210927
+chain_RUV_D195_20211008,Octopus,Octopodidae,1,no,,0,chain_BRUV_9619_20210927
+chain_RUV_D195_20211008,Arnoglossus bassensis,Bothidae,1,no,,0,chain_BRUV_9619_20210927
+chain_RUV_D195_20211008,Large flat crab,Crab,1,no,,0,chain_BRUV_9619_20210927
+chain_RUV_D195_20211124,Gobiidae,Gobiidae,2,no,,FALSE,chain_BRUV_9619_20210927
+chain_RUV_D735_20211008,spotty brown skate,Rajidae,1,no,,0,chain_BRUV_9619_20210927
+chain_RUV_D735_20211008,Arnoglossus bassensis,Bothidae,5,no,,FALSE,chain_BRUV_9619_20210927
+chain_RUV_D735_20211008,Trachinops caudimaculatus,Plesiopidae,4,no,,FALSE,chain_BRUV_9619_20210927
+chain_RUV_D735_20211217,Dicotylichthys punctulatus,Tetraodontidae,1,no,,0,chain_BRUV_9619_20210927
+chain_RUV_D735_20211217,Platycephalus bassensis,Platycephalidae,1,REC,,0,chain_BRUV_9619_20210927
+chain_RUV_GPS_20210927,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_BRUV_9619_20210927
+control_BRUV_C_20210927,Pseudocaranx ,Carangidae,1,no,,0,control_BRUV_C_20210927
+control_BRUV_C_20210927,Dicotylichthys punctulatus,Diodontidae,1,no,,0,control_BRUV_C_20210927
+control_BRUV_C_20210927,Platycephalus bassensis,Platycephalidae,7,REC,,FALSE,control_BRUV_C_20210927
+control_BRUV_C_20210927,Tetraodontidae,Tetraodontidae,2,no,,FALSE,control_BRUV_C_20210927
+control_BRUV_C_20210927,Large black skate,Rajidae,1,no,,0,control_BRUV_C_20210927
+control_BRUV_C_20210927,Arripis truttaceus,Arripidae,1,REC,,0,control_BRUV_C_20210927
+control_BRUV_C_20210927,spotty brown skate,Rajidae,1,no,,0,control_BRUV_C_20210927
+control_BRUV_C_20210927,Macroptopus maorum,Octopodidae,1,no,,0,control_BRUV_C_20210927
+control_BRUV_C_20211008,Arripis truttaceus,Arripidae,3,REC,,FALSE,chain_RUV_GPS_20210927
+control_BRUV_C_20211008,Dicotylichthys punctulatus,Diodontidae,1,no,,0,chain_RUV_GPS_20210927
+control_BRUV_C_20211008,Latridae,Latridae,4,no,,FALSE,chain_RUV_GPS_20210927
+control_BRUV_C_20211008,Monacanthidae,Monacanthidae,2,REC,,FALSE,chain_RUV_GPS_20210927
+control_BRUV_C_20211116,Arripis truttaceus,Arripidae,6,REC,,FALSE,chain_RUV_GPS_20210927
+control_BRUV_C_20211116,Blenniidae,Blenniidae,2,no,,FALSE,chain_RUV_GPS_20210927
+control_BRUV_C_20211116,Moridae,Moridae,1,no,,0,chain_RUV_GPS_20210927
+control_BRUV_C_20211116,Platycephalus bassensis,Platycephalidae,4,REC,,FALSE,chain_RUV_GPS_20210927
+control_BRUV_C_20211116,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_GPS_20210927
+control_BRUV_C_20211124,Diogenidae,Diogenidae,1,no,,0,control_BRUV_C_20211124
+control_BRUV_C_20211124,Meuschenia freycineti,Monacanthidae,1,REC,,0,control_BRUV_C_20211124
+control_BRUV_C_20211124,Platycephalus bassensis,Platycephalidae,5,REC,,FALSE,control_BRUV_C_20211124
+control_BRUV_C_20211124,spotty brown skate,Rajidae,1,no,,0,control_BRUV_C_20211124
+control_BRUV_C_20211124,Cephaloscyllium laticeps,Scyliorhinidae,2,no,,FALSE,control_BRUV_C_20211124
+control_BRUV_C_20211124,Helicolenus percoides,Sebastidae,1,REC,,0,control_BRUV_C_20211124
+control_BRUV_C_20211124,Chyrosophyrs auratus,Sparidae,1,REC,,0,control_BRUV_C_20211124
+control_BRUV_C_20211209,Meuschenia freycineti,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+control_BRUV_C_20211209,Platycephalus bassensis,Platycephalidae,1,REC,,0,chain_RUV_8299_20220112
+control_BRUV_C_20211209,Moridae,Moridae,1,no,,0,chain_RUV_8299_20220112
+control_BRUV_C_20211209,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+control_BRUV_C_20211209,Arripis truttaceus,Arripidae,1,REC,,0,chain_RUV_8299_20220112
+control_BRUV_C_20211217,Platycephalus bassensis,Platycephalidae,2,REC,,FALSE,chain_RUV_8299_20220112
+control_BRUV_C_20211217,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+control_RUV_C_20210927,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_RUV_8299_20220112
+control_RUV_C_20211008,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_RUV_8299_20220112
+control_RUV_C_20211110,Crab,Crab,1,no,,0,chain_RUV_8299_20220112
+control_RUV_C_20211110,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+control_RUV_C_20211110,Tetraodontidae,Tetraodontidae,2,no,,FALSE,chain_RUV_8299_20220112
+control_RUV_C_20211116,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_RUV_8299_20220112
+control_RUV_C_20211124,spotty brown skate,Rajidae,1,no,,0,chain_RUV_8299_20220112
+control_RUV_C_20211209,Meuschenia freycineti,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+control_RUV_C_20211209,Platycephalus bassensis,Platycephalidae,2,REC,,FALSE,chain_RUV_8299_20220112
+control_RUV_C_20211209,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_10150_20211124,Arripis truttaceus,Arripidae,2,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_10150_20211124,Platycephalus bassensis,Platycephalidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_BRUV_10150_20211124,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_10150_20211124,Tetractenos glaber,Tetraodontidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_10674_20210927,Arripis truttaceus,Arripidae,19,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_10674_20210927,Large black skate,Rajidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_10674_20210927,Platycephalus bassensis,Platycephalidae,4,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_10674_20210927,spotty brown skate,Rajidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_11150_20211008,Arripis truttaceus,Arripidae,6,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_3636_20211209,Arripis truttaceus,Arripidae,2,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_3636_20211209,Meuschenia australis,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_BRUV_3636_20211209,Meuschenia freycineti,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_BRUV_3636_20211209,Platycephalus bassensis,Platycephalidae,3,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_3636_20211209,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_D390_20211116,Arripis truttaceus,Arripidae,3,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_D390_20211116,Pseudocaranx ,Carangidae,26,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_D390_20211116,Dicotylichthys punctulatus,Diodontidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_D390_20211116,Meuschenia australis,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_BRUV_D390_20211116,Meuschenia freycineti,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_BRUV_D390_20211116,Platycephalus bassensis,Platycephalidae,3,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_D390_20211116,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_E663_20211217,Arripis truttaceus,Arripidae,5,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_E663_20211217,Pseudocaranx ,Carangidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_E663_20211217,Platycephalus bassensis,Platycephalidae,4,REC,,FALSE,chain_RUV_8299_20220112
+EFM_BRUV_E663_20211217,spotty brown skate,Rajidae,1,no,,0,chain_RUV_8299_20220112
+EFM_BRUV_E663_20211217,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_10150_20211008,Platycephalus bassensis,Platycephalus bassensis,0,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_10674_20211209,Meuschenia freycineti,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_10674_20211209,Platycephalus bassensis,Platycephalidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_10674_20211209,spotty brown skate,Rajidae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_10674_20211209,Cephaloscyllium laticeps,Scyliorhinidae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_11150_20211124,Arripis truttaceus,Arripidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_11150_20211124,Dicotylichthys punctulatus,Diodontidae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_11150_20211124,Meuschenia australis,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_11150_20211124,Meuschenia freycineti,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_11150_20211124,Platycephalus bassensis,Platycephalidae,3,REC,,FALSE,chain_RUV_8299_20220112
+EFM_RUV_11150_20211124,Rajidae,Rajidae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_3636_20210927,Meuschenia freycineti,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_3636_20210927,Moridae,Moridae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_3636_20210927,Arripis truttaceus,Arripidae,3,REC,,FALSE,chain_RUV_8299_20220112
+EFM_RUV_3636_20210927,Upeneichthys vlamingii,Mullidae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_3636_20210927,Pomacentridae,Pomacentridae,3,no,,FALSE,chain_RUV_8299_20220112
+EFM_RUV_3636_20210927,Meuschenia trachylepis,Monacanthidae,1,REC,,0,chain_RUV_8299_20220112
+EFM_RUV_D390_20211110,Moridae,Moridae,1,no,,0,chain_RUV_8299_20220112
+EFM_RUV_E663_20211116,Rajidae,Rajidae,1,no,,0,chain_RUV_8299_20220112
