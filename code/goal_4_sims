@@ -1,0 +1,18 @@
+#!/bin/bash -l
+#SBATCH --account=OD-220461
+#SBATCH --job-name=yolov5s
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=16
+#SBATCH --mem=512gb
+#SBATCH --time=2:00:00
+#SBATCH --array=3
+
+##SBATCH --mail-type=ALL
+#SBATCH --mail-user=b.maslen@unsw.edu.au
+
+cd /datasets/work/d61-icv-rpsa/work/Ben_M/Movement_OD_WD/code/chapter_2_sims
+
+module load R/4.3.1
+
+Rscript Simulation_Goal_4.R $SLURM_ARRAY_TASK_ID
