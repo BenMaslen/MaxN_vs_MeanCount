@@ -2,7 +2,7 @@
 
 This respository contains the code and data that produced the results in the paper titled "MaxN vs MeanCount: Using AI to evaluate population abundance metrics in underwater monitoring videos" (currently in review).
 
-In order to obtain the results in the paper, run the code files in the following order (note that Goal_3_data_prep.R takes a while to run as it is performing block bootstraps, and Simulation_Goal_4.R is quite computationally intensive and as such should be run on high performance computing).  :
+In order to obtain the results in the paper, download the zipped respoitory, add a folder in the repository titled 'results' and run the code files in the following order (note that Goal_3_data_prep.R takes a while to run as it is performing block bootstraps, and Simulation_Goal_4.R is quite computationally intensive and as such should be run on high performance computing).  :
 
 1. `Goal_1_2_4_data_prep.R`
 2. `Goal_3_data_prep.R`
