@@ -388,8 +388,8 @@ strong_effect_species_tb <- test_statistic_dat_tb$Class[abs(test_statistic_dat_t
 
 
 goal_4_dat_tb$Class_short <-  goal_4_dat_tb$Class
-levels(goal_4_dat_tb$Class_short) =c("A.truttaceus","C.laticeps","C.auratus",
-                                     "M.australis","Moridae","P.bassensis","Rajiformes","S.punctata")
+levels(goal_4_dat_tb$Class_short) =c("A.spp","C.laticeps","C.auratus",
+                                     "M.spp","Moridae","P.bassensis","S.whitleyi","S.punctata")
 
 #bring in schooling and mobility
 goal_4_dat_tb$measure <- factor(goal_4_dat_tb$measure)
@@ -483,7 +483,7 @@ ggsave("plots/60_seconds/goal_4_combined_plot.png",height=1.1*5.12,width=1.1*5.7
 
 
 
-wrap_plots(plotlist = goal_4_plots_2, ncol = 3,nrow=1,guides ='collect') + plot_layout(axis_titles = "collect") & theme(legend.position = 'bottom') +
+wrap_plots(plotlist = goal_4_plots_2, ncol = 3,nrow=1,guides ='collect') + plot_layout(axis_titles = "collect") & theme(legend.position = 'bottom')
   
 
 

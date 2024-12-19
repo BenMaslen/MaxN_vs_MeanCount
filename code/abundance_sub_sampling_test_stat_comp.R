@@ -75,8 +75,6 @@ test_stat_comp = rbind(goal_4_dat_tb %>% filter(measure=="AvgN") %>%
 
 kf_or <- read.csv("results/goal_4_test_statistic_dat_kf.csv")  
 tb_or <- read.csv("results/goal_4_test_statistic_dat_tb.csv")  
-kf_15 <- read.csv("results/15_seconds/goal_4_test_statistic_dat_kf.csv")  
-tb_15 <- read.csv("results/15_seconds/goal_4_test_statistic_dat_tb.csv")  
 kf_30 <- read.csv("results/30_seconds/goal_4_test_statistic_dat_kf.csv")  
 tb_30 <- read.csv("results/30_seconds/goal_4_test_statistic_dat_tb.csv")  
 kf_60 <- read.csv("results/60_seconds/goal_4_test_statistic_dat_kf.csv")  
@@ -84,18 +82,15 @@ tb_60 <- read.csv("results/60_seconds/goal_4_test_statistic_dat_tb.csv")
 
 
 chi_or <- rbind(kf_or %>% select(Class,diff),tb_or %>% select(Class,diff) )
-chi_15 <- rbind(kf_15 %>% select(Class,diff),tb_15 %>% select(Class,diff) )
 chi_30 <- rbind(kf_30 %>% select(Class,diff),tb_30 %>% select(Class,diff) )
 chi_60 <- rbind(kf_60 %>% select(Class,diff),tb_60 %>% select(Class,diff) )
 
 colnames(chi_or)[2] <- "diff_or"
-colnames(chi_15)[2] <- "diff_15"
 colnames(chi_30)[2] <- "diff_30"
 colnames(chi_60)[2] <- "diff_60"
 
 
 test_stat_comp = test_stat_comp %>% left_join(chi_or,by="Class") %>%
-  left_join(chi_15,by="Class") %>%
   left_join(chi_30,by="Class") %>%
   left_join(chi_60,by="Class")
   
@@ -106,15 +101,15 @@ sum(test_stat_comp$diff_60>0)
 
 
 
-test_stat_comp$diff_30_alt <- c(test_stat_comp$diff_30[1:18],test_stat_comp$diff_or[19:28])
-test_stat_comp$diff_60_alt <- c(test_stat_comp$diff_60[1:18],test_stat_comp$diff_or[19:28])
+test_stat_comp$diff_30_alt <- c(test_stat_comp$diff_30[1:16],test_stat_comp$diff_or[17:26])
+test_stat_comp$diff_60_alt <- c(test_stat_comp$diff_60[1:16],test_stat_comp$diff_or[17:26])
 
 sum(test_stat_comp$diff_30_alt>0)
 sum(test_stat_comp$diff_60_alt>0)
 
 
-test_stat_comp$diff_30_alt <- c(test_stat_comp$diff_30[1:14],test_stat_comp$diff_or[15:28])
-test_stat_comp$diff_60_alt <- c(test_stat_comp$diff_60[1:14],test_stat_comp$diff_or[15:28])
+test_stat_comp$diff_30_alt <- c(test_stat_comp$diff_30[1:13],test_stat_comp$diff_or[14:26])
+test_stat_comp$diff_60_alt <- c(test_stat_comp$diff_60[1:13],test_stat_comp$diff_or[14:26])
 
 sum(test_stat_comp$diff_30_alt>0)
 sum(test_stat_comp$diff_60_alt>0)
